@@ -1,0 +1,5 @@
+cell_id,sample,group,cluster
+cell001,A,control,0
+cell002,B,diabetes,1
+cell003,C,insulin_good,2
+cell004,D,insulin_poor,3

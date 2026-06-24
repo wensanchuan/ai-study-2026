@@ -1,0 +1,7 @@
+cell_id,sample,group,cluster,celltype
+cell001,A,control,0,HSPC
+cell002,B,diabetes,1,Monocyte
+cell003,C,insulin_good,2,Neutrophil
+cell004,D,insulin_poor,3,Macrophage
+cell005,B,diabetes,1,Monocyte
+cell006,A,control,0,HSPC

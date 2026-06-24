@@ -1,0 +1,8 @@
+zhang
+LI
+wang
+LI
+chen
+error
+ERROR_FILE_MISSING
+warning_low_memory
